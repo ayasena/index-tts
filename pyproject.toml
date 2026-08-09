@@ -37,7 +37,7 @@ dependencies = [
   "g2p-en==2.1.0",
   "jieba==0.42.1",
   "json5==0.10.0",
-  "keras==2.9.0",
+  "keras==3.12.4",
   "librosa==0.10.2.post1",
   "matplotlib==3.8.2",
   "modelscope==1.27.0",
@@ -65,7 +65,7 @@ dependencies = [
 [project.optional-dependencies]
 # To install the WebUI support, use `uv sync --extra webui` (or `--all-extras`).
 webui = [
-  "gradio==5.45.0",
+  "gradio==6.15.1",
 ]
 # To install the DeepSpeed support, use `uv sync --extra deepspeed` (or `--all-extras`).
 deepspeed = [
