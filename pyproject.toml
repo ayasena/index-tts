@@ -28,7 +28,7 @@ dependencies = [
   # and update the lockfile after editing anything below.
   # WARNING: Ensure that you don't have a local `uv.toml` which overrides PyPI
   # while generating the lockfile: https://github.com/astral-sh/uv/issues/15741
-  "accelerate==1.8.1",
+  "accelerate==1.15.0",
   "cn2an==0.5.22",
   "cython==3.0.7",
   "descript-audiotools==0.7.2",
